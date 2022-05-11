@@ -115,7 +115,7 @@ h6 {
   color: inherit;
   text-align: left;
   width: 100%;
-  min-width: 292px;
+  min-width: 290px;
   background-color: #fff;
   cursor: pointer;
   border: 0.5px solid rgba(0, 0, 0, 0.4);
@@ -1075,7 +1075,7 @@ h6 {
   -moz-transform: scale(1.01);
   -o-transform: scale(1.01);
   transform: scale(1.01);
-  min-width: 292px;
+  min-width: 290px;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
@@ -3501,7 +3501,7 @@ label {
 }
 
 .z-idex-1 {
-  z-index: -1;
+  z-index: -99;
 }
 
 .products__successful-payment-exit {
